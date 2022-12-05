@@ -1,0 +1,4 @@
+server:
+  address: localhost:8090
+logging:
+  level: debug
